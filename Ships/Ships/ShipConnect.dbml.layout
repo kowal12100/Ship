@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ShipConnect">
+  <DataContextMoniker Name="/ShipConnectDataContext" />
+  <nestedChildShapes>
+    <classShape Id="54882f43-512a-4c3a-b2a4-df53ad2c0190" absoluteBounds="3.375, 2.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/ShipConnectDataContext/Wynik" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9c4fa228-af87-47a4-819f-48ed78f83466" absoluteBounds="3.3899999999999997, 2.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
